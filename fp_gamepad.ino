@@ -1,5 +1,5 @@
 /*
- *  Project	Arduino XInput controller for Fisher Price toy controller using Arduino Micro (inspired by Rudism's work!)
+ *  Project	Arduino XInput controller for Fisher Price toy controller using Arduino Micro (inspired by Rudeism's work!)
  *  @author	Jason Sckrabulis (adapted from GamepadPins.ino example code in the Arduino XInput Library for an Arduino Leonardo -- MIT license below from that project)
 */
 
